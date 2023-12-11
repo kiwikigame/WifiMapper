@@ -1,0 +1,5 @@
+INSERT INTO `iotproj`.`wifibc` (`Scaner`, `SSID`, `Networkmac`, `SIG`, `LON`, `LAT`, `Securite`) VALUES ('kiscn', 'ki', '2E:12:C6:7A:31:F6', -35, 2.4200499, 20.85959864, 'WPA');
+INSERT INTO `iotproj`.`wifibc` (`Scaner`, `SSID`, `Networkmac`, `SIG`, `LON`, `LAT`, `Securite`) VALUES ('kiscn', 'ki', '2E:12:C6:7A:31:F6', -35, 2.9800499, 20.12599864, 'WPA');
+INSERT INTO `iotproj`.`wifibc` (`Scaner`, `SSID`, `Networkmac`, `SIG`, `LON`, `LAT`, `Securite`) VALUES ('kiscn', 'ki', '2E:11:C6:7A:31:F6', -45, 2.9700489, 20.45599844, 'WPA');
+INSERT INTO `iotproj`.`wifibc` (`Scaner`, `SSID`, `Networkmac`, `SIG`, `LON`, `LAT`, `Securite`) VALUES ('kiscn', 'ki', '2E:12:C6:7A:31:F6', -30, 2.4500478, 20.75599853, 'WPA');
+INSERT INTO `iotproj`.`wifibc` (`Scaner`, `SSID`, `Networkmac`, `SIG`, `LON`, `LAT`, `Securite`) VALUES ('kiscn', 'ki', '2E:12:C6:7A:31:F6', -38, 2.1200478, 20.78599853, 'WEP');
